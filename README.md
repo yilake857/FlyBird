@@ -11,8 +11,8 @@
     8.碰撞判定
 ## 效果展示：
 ### 开始界面：
-![img.png](img.png)
+![bbe445fa74e5c672e5753a7f1a3ebfc](https://user-images.githubusercontent.com/93925357/201676276-0d176faa-e1e3-4b69-bb86-a5012e2b0f2c.jpg)
 ### 游戏过程及游戏暂停
-![img_1.png](img_1.png)
+![62b9c93e75a97e0c888aaaddf2f5f8a](https://user-images.githubusercontent.com/93925357/201676303-b87439b5-865c-4950-9d79-976204a089e9.jpg)
 ### 游戏结束
-![img_2.png](img_2.png)
+![54022a3c538d78046468ef4bad0a3ce](https://user-images.githubusercontent.com/93925357/201676330-8a6fbd94-719e-4e4f-ab64-1c556cae6de8.jpg)
