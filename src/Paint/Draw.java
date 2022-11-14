@@ -3,6 +3,9 @@ package Paint;
 import javax.swing.*;
 import java.awt.*;
 
+/**
+ * 测试用例
+ */
 public class Draw extends JFrame{
     public static void main(String[] args) {
         System.out.println((int) 0.5);
